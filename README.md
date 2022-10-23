@@ -1,5 +1,5 @@
 # Hi there. I'm Cynthia 👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=cynthia-nwannah&show_icons=true&theme=dracula" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=cynthia-nwannah&show_icons=true&theme=highcontrast" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynthia-nwannah&layout=compact" /> <br>
 
 
